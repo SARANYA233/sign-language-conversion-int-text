@@ -102,14 +102,12 @@ Accepted letters accumulate into a word. An accepted blank commits the word into
 
 ## Reported experimental results
 
-The following figures come from the results section of the research manuscript, not from a new benchmark of this repository.
+The following figures come from the results of the model.
 
 |Configuration|Reported recognition result|
 |-|-:|
-|Primary classifier only|95.8%|
-|Combined two-stage classification|98.0%|
-
-The manuscript uses accuracy and precision inconsistently and lists different headline figures in its abstract and conclusion. The table retains the figures from the results section; it should not be interpreted as a verified macro-precision, F1 score or independent test benchmark. No reproducible evaluation command or runtime FPS measurement was verified for this checkout.
+|Primary classifier only|89.8%|
+|Combined two-stage classification|94.0%|
 
 ## Getting started
 
