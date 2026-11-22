@@ -2,8 +2,6 @@
 
 A Python desktop application that recognises American Sign Language (ASL) fingerspelling gestures from a standard webcam and converts predictions into written characters, words and sentences. The project combines computer vision, convolutional neural networks (CNNs), temporal prediction filtering and dictionary-based spelling suggestions.
 
-!\[Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white) !\[OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv\&logoColor=white) !\[Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras\&logoColor=white) !\[Tkinter](https://img.shields.io/badge/Tkinter-Desktop%20GUI-555555)
-
 ## Overview
 
 The project explores a low-cost assistive communication interface for deaf and hard-of-hearing users. Instead of requiring instrumented gloves or depth cameras, it uses a conventional webcam and a two-stage classification approach to recognise alphabet gestures.
